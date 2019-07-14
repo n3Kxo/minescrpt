@@ -4,9 +4,9 @@
  
 sudo apt-get update
  
-sudo apt-get install pip3 -y
+sudo apt-get install python3-pip -y
 
-sudo pip install youtube-dl -y
+sudo pip3 install youtube-dl -y
 
 sudo apt install ffmpeg -y
 
